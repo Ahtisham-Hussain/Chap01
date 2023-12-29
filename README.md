@@ -9,3 +9,5 @@ The LED is connected to Arduino pin 11. In the void setup() function, the Arduin
 - Arduino UNO
 
 ## Project Demo
+
+https://github.com/Ahtisham-Hussain/Chap01/assets/154002517/661d369a-5a0f-4b71-8235-517608c63dfa
